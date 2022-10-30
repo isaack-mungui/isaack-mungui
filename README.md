@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaack-mungui&label=Profile%20views&color=0e75b6&style=flat" alt="isaack-mungui" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Ruby**
 
 - 💬 Ask me about **Open Source Contribution**
 
