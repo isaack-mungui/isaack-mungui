@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **munguiisaack@gmail.com**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1tfZxq7N-3imr7A5gPTw98pKyTFpQr72jeLsy24x3amc/edit?usp=sharing)
+- 📄 Know about my [experiences](https://docs.google.com/document/d/1tfZxq7N-3imr7A5gPTw98pKyTFpQr72jeLsy24x3amc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
